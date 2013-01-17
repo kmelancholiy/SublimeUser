@@ -1,0 +1,5 @@
+{
+	"cmd": ["make","html"],
+	"working_dir": "$file_path",
+	"selector": "text.restructuredtext"
+}
